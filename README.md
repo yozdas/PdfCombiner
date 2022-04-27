@@ -11,3 +11,8 @@ This is an Automator app built on Mac and works on a mac device
 
 ## Advanced Users
 You can use it as a Service, Download 'Advanced Users - Pdf Combiner.zip' and unzip, in Service folder there is an instruction file (ReadMe.rtf).
+
+# ATTENTION
+This Automator built in MacOS Sierra, if you got Error 127 please check;
+https://discussions.apple.com/thread/253764288
+
